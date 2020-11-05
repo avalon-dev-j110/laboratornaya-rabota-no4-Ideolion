@@ -14,7 +14,7 @@ import java.util.Comparator;
  */
 public interface Sort {
 
-    /**
+    /**     
      * Выполняет сортировку переданного массива объектов.
      *
      * @param array массив, подлежащий сортировке
